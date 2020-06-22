@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+body{
+	background-size:cover;
+}
+h1{
+	font-size: 50pt;
+	color: darkslategrey;
+}
+
+#admin{
+	margin-bottom:10%; ;
+	color: yellow;
+}
+.books{
+	width: 30%;
+    margin: 1.6%;
+    float: left;
+}
+.DbTable{
+	text-align: center;		 
+}

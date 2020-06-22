@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+body
+{
+	background:url("img6p.jpg");
+	background-size:cover;
+}
+.myaccount1
+{
+	margin:0px;
+	padding:0px;
+	
+	/* top: 10%; */
+}
